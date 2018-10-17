@@ -1,1 +1,1 @@
-# Soil Moisture Sensor Library
+# Arduino Soil Moisture Sensor Library
