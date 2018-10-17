@@ -1,4 +1,4 @@
-/* SoilMoisture.cpp - Soil moisture sensor library
+/* SoilMoisture.cpp - Soil Moisture Sensor Library
  * 
  */
 

@@ -1,4 +1,4 @@
-/* SoilMoisture.h - Soil moisture sensor library
+/* SoilMoisture.h - Soil Moisture Sensor Library
  *
  * Author: Márcio Pessoa <marcio.pessoa@sciemon.com>
  * Contributors: none
